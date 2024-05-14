@@ -43,7 +43,7 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
-          plugin_languages_colors: rainbow
+          plugin_languages_colors: 0:#ff0000, 1:#ffa500, 2:#ffff00, 3:#008000, 4:#0000ff, 5:#4b0082, 6:#ee82ee, 7:#162221
           plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14

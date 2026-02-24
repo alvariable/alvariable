@@ -26,7 +26,7 @@ jobs:
 
 
           # Options
-          template: classic
+          template: terminal
           base: header, activity, community, repositories, metadata
           config_display: columns
           config_timezone: America/Los_Angeles

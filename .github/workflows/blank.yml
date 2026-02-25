@@ -9,10 +9,10 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:gi
+    permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: alvariable/metrics@master
         with:
           # Your GitHub token
           # The following scopes are required:

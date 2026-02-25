@@ -12,11 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-# <<<<<<< HEAD
        - uses: alvariable/metrics@master
-# =======
-#       - uses: alvariable/metrics@trial
-# >>>>>>> 7b3a1ab47a132d31995d442f31568b468c85f4ea
         with:
           # Your GitHub token
           # The following scopes are required:
